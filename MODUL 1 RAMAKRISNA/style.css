@@ -1,0 +1,13 @@
+body{
+    height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 3rem;
+    background-color: #EBE4D1;
+}
+
+.container-2{
+    padding-top: 10rem;
+    background-color: #FFFBF5;
+}
